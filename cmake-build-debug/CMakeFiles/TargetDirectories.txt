@@ -1,0 +1,4 @@
+/home/zgh/CLionProjects/qt_guide/cmake-build-debug/CMakeFiles/qt_guide.dir
+/home/zgh/CLionProjects/qt_guide/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zgh/CLionProjects/qt_guide/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zgh/CLionProjects/qt_guide/cmake-build-debug/CMakeFiles/qt_guide_autogen.dir
