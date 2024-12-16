@@ -6,7 +6,7 @@ set(CMAKE_AUTOMOC ON) # 自动处理 Qt 的信号和槽机制
 set(CMAKE_AUTORCC ON) # 自动启用RCC（Qt资源编译器）处理qrc文件
 set(CMAKE_AUTOUIC ON) # 自动启用UIC（Qt界面编译器）处理ui文件
 
-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
+
 find_package(Qt5 COMPONENTS
         Core
         Gui
