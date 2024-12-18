@@ -1,0 +1,4 @@
+/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad.dir
+/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad_autogen.dir

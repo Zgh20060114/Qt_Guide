@@ -1,0 +1,27 @@
+# ninja log v5
+1	77	0	003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+77	860	1734432791690595007	CMakeFiles/003notePad.dir/mainWindow.cpp.o	87bd16ceeeadfc02
+860	1032	1734432791862603260	003notePad	b6252bf16841ec0e
+1	77	0	CMakeFiles/003notePad_autogen	519c86dc5624c214
+0	40	1734484003779778444	build.ninja	1842b7ed5ec2ee5f
+1	77	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad_autogen	519c86dc5624c214
+77	810	1734432791638592513	CMakeFiles/003notePad.dir/003notePad_autogen/mocs_compilation.cpp.o	c69657084f24c19d
+77	829	1734432791658593472	CMakeFiles/003notePad.dir/main.cpp.o	fcee87b831f2bdfd
+1	77	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+1	48	1734484003779778444	build.ninja	1842b7ed5ec2ee5f
+1	75	0	CMakeFiles/003notePad_autogen	519c86dc5624c214
+1	75	0	003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+1	75	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad_autogen	519c86dc5624c214
+1	75	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+75	860	1734484004643700449	CMakeFiles/003notePad.dir/003notePad_autogen/mocs_compilation.cpp.o	c69657084f24c19d
+75	875	1734484004659699005	CMakeFiles/003notePad.dir/main.cpp.o	fcee87b831f2bdfd
+75	909	1734484004691696118	CMakeFiles/003notePad.dir/mainWindow.cpp.o	87bd16ceeeadfc02
+909	1089	1734484004871679873	003notePad	b6252bf16841ec0e
+1	3	0	CMakeFiles/003notePad_autogen	519c86dc5624c214
+1	3	0	003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+1	3	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad_autogen	519c86dc5624c214
+1	3	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+0	3	0	CMakeFiles/003notePad_autogen	519c86dc5624c214
+0	3	0	003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
+0	3	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/CMakeFiles/003notePad_autogen	519c86dc5624c214
+0	3	0	/home/zgh/CLionProjects/QtProjects/003notePad/cmake-build-debug/003notePad_autogen/mocs_compilation.cpp	519c86dc5624c214
